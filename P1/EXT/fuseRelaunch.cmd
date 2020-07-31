@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/verilog/EXT/ext_isim_beh.exe" -prj "C:/verilog/EXT/ext_beh.prj" "work.ext" "work.glbl" 
